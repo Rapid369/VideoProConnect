@@ -30,7 +30,7 @@ const HomePage = () => {
             <Col lg={6} className="d-none d-lg-block">
               <div className="position-relative">
                 <Image
-                  src="https://images.unsplash.com/photo-1617914309185-9e63b3badfca?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                  src="/images/filming-live-sports-stockcake.jpg"
                   alt="Sports Videographer"
                   className="img-fluid rounded-3 shadow-lg"
                 />
@@ -138,10 +138,10 @@ const HomePage = () => {
                     <Card.Img
                       variant="top"
                       src={item === 1 ?
-                        "https://images.unsplash.com/photo-1574271143515-5cddf8da19be?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" :
+                        "/images/GameFilming-min.jpg" :
                         item === 2 ?
-                        "https://images.unsplash.com/photo-1533779088228-9db21617b403?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" :
-                        "https://images.unsplash.com/photo-1532098530638-cc52d7f83b75?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                        "/images/cameraman-filming-sporting-event-with-large-crowd-background_950481-5819.jpg" :
+                        "/images/videographer-captures-game-stockcake.jpg"
                       }
                       alt={item === 1 ? "Sports Videographer" : item === 2 ? "Event Videographer" : "Wedding Videographer"}
                     />
@@ -210,8 +210,8 @@ const HomePage = () => {
         <Row className="align-items-center">
           <Col lg={6} className="mb-4 mb-lg-0">
             <Image
-              src="https://images.unsplash.com/photo-1605433663199-f1d729ef6526?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-              alt="Join as Videographer"
+              src="/images/live-sports-broadcasting-stockcake.jpg"
+              alt="Join as Sports Videographer"
               className="img-fluid rounded-3 shadow-lg"
             />
           </Col>
