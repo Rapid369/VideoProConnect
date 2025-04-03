@@ -1,6 +1,6 @@
 # VideoProConnect - Uber for Videographers
 
-![VideoProConnect Banner](https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![VideoProConnect Banner](https://images.unsplash.com/photo-1603123853880-a92fafb7809f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 VideoProConnect is a platform that connects clients with professional videographers for various events and projects. This application allows videographers to showcase their skills and portfolio, while clients can easily find and book the right videographer for their needs.
 
@@ -150,14 +150,14 @@ run = "cd videographer-app && npm run start"
 
 ## 📱 Screenshots
 
-### Homepage
-![Homepage](https://images.unsplash.com/photo-1585155770447-2f66e2a397b5?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
+### Football Game Videography
+![Football Videographer](https://images.unsplash.com/photo-1566577739112-5180d4bf9390?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
 
-### Videographer Filming Sports
-![Sports Videographer](https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
+### Basketball Game Videography
+![Basketball Videographer](https://images.unsplash.com/photo-1504450758481-7338eba7524a?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
 
-### Event Videography
-![Event Videographer](https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
+### Soccer Match Videography
+![Soccer Videographer](https://images.unsplash.com/photo-1517927033932-b3d18e61fb21?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
 
 ## 🤝 Contributing
 
