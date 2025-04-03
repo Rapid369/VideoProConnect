@@ -1,6 +1,6 @@
 # VideoProConnect - Uber for Videographers
 
-![VideoProConnect Banner](https://images.unsplash.com/photo-1617914309185-9e63b3badfca?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![VideoProConnect Banner](https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 VideoProConnect is a platform that connects clients with professional videographers for various events and projects. This application allows videographers to showcase their skills and portfolio, while clients can easily find and book the right videographer for their needs.
 
@@ -151,13 +151,13 @@ run = "cd videographer-app && npm run start"
 ## 📱 Screenshots
 
 ### Homepage
-![Homepage](https://images.unsplash.com/photo-1617914309185-9e63b3badfca?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
+![Homepage](https://images.unsplash.com/photo-1585155770447-2f66e2a397b5?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
 
-### Videographer Listings
-![Videographer Listings](https://images.unsplash.com/photo-1574271143515-5cddf8da19be?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
+### Videographer Filming Sports
+![Sports Videographer](https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
 
-### Booking Page
-![Booking Page](https://images.unsplash.com/photo-1533779088228-9db21617b403?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
+### Event Videography
+![Event Videographer](https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
 
 ## 🤝 Contributing
 
