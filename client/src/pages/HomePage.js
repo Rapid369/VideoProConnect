@@ -30,7 +30,7 @@ const HomePage = () => {
             <Col lg={6} className="d-none d-lg-block">
               <div className="position-relative">
                 <Image
-                  src="/images/filming-live-sports-stockcake.jpg"
+                  src="images/filming-live-sports-stockcake.jpg"
                   alt="Sports Videographer"
                   className="img-fluid rounded-3 shadow-lg"
                 />
@@ -138,10 +138,10 @@ const HomePage = () => {
                     <Card.Img
                       variant="top"
                       src={item === 1 ?
-                        "/images/GameFilming-min.jpg" :
+                        "images/GameFilming-min.jpg" :
                         item === 2 ?
-                        "/images/cameraman-filming-sporting-event-with-large-crowd-background_950481-5819.jpg" :
-                        "/images/videographer-captures-game-stockcake.jpg"
+                        "images/cameraman-filming-sporting-event-with-large-crowd-background_950481-5819.jpg" :
+                        "images/videographer-captures-game-stockcake.jpg"
                       }
                       alt={item === 1 ? "Sports Videographer" : item === 2 ? "Event Videographer" : "Wedding Videographer"}
                     />
@@ -210,7 +210,7 @@ const HomePage = () => {
         <Row className="align-items-center">
           <Col lg={6} className="mb-4 mb-lg-0">
             <Image
-              src="/images/live-sports-broadcasting-stockcake.jpg"
+              src="images/live-sports-broadcasting-stockcake.jpg"
               alt="Join as Sports Videographer"
               className="img-fluid rounded-3 shadow-lg"
             />
