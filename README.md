@@ -1,6 +1,6 @@
 # VideoProConnect - Uber for Videographers
 
-![VideoProConnect Banner](https://images.unsplash.com/photo-1603123853880-a92fafb7809f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![VideoProConnect Banner](images/filming-live-sports-stockcake.jpg)
 
 VideoProConnect is a platform that connects clients with professional videographers for various events and projects. This application allows videographers to showcase their skills and portfolio, while clients can easily find and book the right videographer for their needs.
 
@@ -150,14 +150,14 @@ run = "cd videographer-app && npm run start"
 
 ## 📱 Screenshots
 
-### Sports Videographer with Camera
-![Sports Videographer](https://images.unsplash.com/photo-1617914309185-9e63b3badfca?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
-
 ### Football Game Filming
-![Football Filming](https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
+![Football Filming](images/GameFilming-min.jpg)
 
-### Professional Camera Operator
-![Camera Operator](https://images.unsplash.com/photo-1589585686591-d3fb7d48dadf?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80)
+### Basketball Game Videography
+![Basketball Videography](images/cameraman-filming-sporting-event-with-large-crowd-background_950481-5819.jpg)
+
+### Professional Sports Videographer
+![Sports Videographer](images/videographer-captures-game-stockcake.jpg)
 
 ## 🤝 Contributing
 
