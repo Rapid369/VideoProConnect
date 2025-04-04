@@ -44,10 +44,11 @@ app.use((err, req, res, next) => {
   });
 });
 
-// Connect to MongoDB
-mongoose.connect(process.env.MONGODB_URI)
-  .then(() => console.log('MongoDB connected...'))
-  .catch(err => console.error('MongoDB connection error:', err));
+// Connect to MongoDB - commented out for now
+// mongoose.connect(process.env.MONGODB_URI)
+//   .then(() => console.log('MongoDB connected...'))
+//   .catch(err => console.error('MongoDB connection error:', err));
+console.log('MongoDB connection skipped for demo');
 
 // Define port
 const PORT = process.env.PORT || 5000;
